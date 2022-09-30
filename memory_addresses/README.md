@@ -1,4 +1,4 @@
-Understanding a little bit about representation of intergers in memory. Output of running `mem` is
+Understanding a little bit about representation of intergers in memory. Output (system and state dependent) of running `mem` is
 
 ```
 Value of a: 42
